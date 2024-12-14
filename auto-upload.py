@@ -83,8 +83,7 @@ try:
 	filelist = sys.argv[1]
 	user = sys.argv[2]
 	password = sys.argv[3]
-	
-	# Configurenya G Usah Di Ubah Kalau gk ngerti !
+
 	type = "shell" # change name plugins!
 	ua = "Linux Mozilla 5/0"
 
